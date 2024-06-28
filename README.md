@@ -1,7 +1,7 @@
 # Akshay Sudharshan PK
 
-#Aspiring Data Analyst
-##_Transforming Data into Insightful Stories_
+# Aspiring Data Analyst
+## _Transforming Data into Insightful Stories_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akshay-sudharshan-pk/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:aks123pk@gmail.com)
@@ -22,8 +22,8 @@ I am an aspiring data analyst with a keen interest in data science and deep lear
 - **Highlights**: Used CLAHE for image enhancement, achieved an accuracy of 94%
 
 ## Education
-- **Master of Computer Applications ** - Amrita Vishwa Vidyapeetham, Mysuru, 2024
-- **Bachelor of Computer Applications ** - JSS Science and Technology University, Mysuru, 2022
+- **Master of Computer Applications** - Amrita Vishwa Vidyapeetham, Mysuru, 2024
+- **Bachelor of Computer Applications** - JSS Science and Technology University, Mysuru, 2022
 
 
 
